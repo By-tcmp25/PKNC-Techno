@@ -1,0 +1,46 @@
+
+
+.conteiner {
+    max-width: 800PX;
+    width: 100%;
+    margin: 0 auto;
+        }
+        
+.logocuk {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+        }
+        
+.başlık {
+    color: red;
+    text-align: left;
+    font-style: normal;
+    font-size: 30;
+    font-weight: lighter;
+    margin: 30px 20px 25px 20px;
+        }
+        
+.yazı-tipi {
+    color: black;
+    text-align: left;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0px 10px 0px 10px;
+        }
+        
+.tarih {
+    color: #BDBDBD;
+    text-align: right;
+    font-size: small;
+    font-weight: normal;
+    margin: 10px 10px 10px 10px
+        }
+        
+.link {
+    color: rgb(19, 16, 16);
+    text-align: center;
+        }
